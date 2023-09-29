@@ -1,6 +1,5 @@
 # voice-calculator
 
-README file for voice calculator
 
 Overview
 
